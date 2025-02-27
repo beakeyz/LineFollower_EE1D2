@@ -1,0 +1,73 @@
+C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling package robot_sv_unit
+-- Compiling module motorcontrol
+-- Compiling module sensor_reg
+-- Compiling module inputbuffer
+-- Compiling module controller
+-- Compiling module timebase
+-- Compiling module robot
+
+Top level modules:
+	robot
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling package inputbuffer_sv_unit
+-- Compiling module sensor_reg
+-- Compiling module inputbuffer
+
+Top level modules:
+	inputbuffer
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module timebase
+
+Top level modules:
+	timebase
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling package motorcontrol_sv_unit
+-- Compiling module motorcontrol
+
+Top level modules:
+	motorcontrol
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot_tb.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling package robot_tb_sv_unit
+-- Compiling module motorcontrol
+-- Compiling module sensor_reg
+-- Compiling module inputbuffer
+-- Compiling module controller
+-- Compiling module timebase
+-- Compiling module robot
+-- Compiling module robot_tb
+
+Top level modules:
+	robot_tb
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer_tb.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module inputbuffer_tb
+
+Top level modules:
+	inputbuffer_tb
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol_tb.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module motorcontrol_tb
+
+Top level modules:
+	motorcontrol_tb
+
+} {} {}} C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase_tb.sv
+QuestaSim-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module timebase_tb
+
+Top level modules:
+	timebase_tb
+
+} {} {}}

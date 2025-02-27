@@ -1,0 +1,407 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/joost/Uni/bsc1/EE1D1/labs/labsDSA/lab_3/b_detector
+vcontroller
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx4 work 16 robot_tb_sv_unit 0 22 ?bg0l4fkoZYjjD<;RWi0^0
+Z2 !s110 1740666779
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 _U;17`z_ZC>A=CO4F381J0
+IkAAQNY<8EP@7UZ2Q>_bJS0
+Z4 !s105 robot_tb_sv_unit
+S1
+Z5 dC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver
+Z6 w1740666769
+8controller.sv
+Z7 Fcontroller.sv
+L0 12
+Z8 OL;L;10.6g;65
+Z9 !s108 1740666779.000000
+Z10 !s107 timebase.sv|inputbuffer.sv|controller.sv|motorcontrol.sv|robot.sv|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot_tb.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot_tb.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+Xcontroller_sv_unit
+R0
+VaVD[AL2U>9@QFnSl9AQWk2
+r1
+!s85 0
+31
+!i10b 1
+!s100 QY^48=:`zkVDE4HKf69Y=1
+IaVD[AL2U>9@QFnSl9AQWk2
+!i103 1
+S1
+R5
+R6
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/controller.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/controller.sv
+Z14 Finputbuffer.sv
+L0 4
+R8
+!s108 1740666778.000000
+!s107 inputbuffer.sv|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/controller.sv|
+!i113 0
+R12
+R13
+vcounter
+R0
+!s110 1740050744
+!i10b 1
+!s100 74[i795MU[f[Ng01F4`5;0
+IXHbfH6OcLi:cbHMaPN3RP3
+R3
+!s105 timebase_sv_unit
+S1
+R5
+w1740050506
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1740050744.000000
+!s107 C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase.sv|
+!i113 0
+R12
+R13
+vinputbuffer
+R0
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 KmB29FoOVVJnAT4<XMz1M2
+ImRIACi<cljlL^[RBInj3J3
+R4
+S1
+R5
+Z15 w1740666258
+Z16 8inputbuffer.sv
+R14
+L0 44
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xinputbuffer_sv_unit
+R0
+V@;_oFbSF0QFRUfX3jBM361
+r1
+!s85 0
+31
+!i10b 1
+!s100 @69VLSQS82l6LXV<E3LEV0
+I@;_oFbSF0QFRUfX3jBM361
+!i103 1
+S1
+R5
+R15
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer.sv
+L0 4
+R8
+R9
+!s107 C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer.sv|
+!i113 0
+R12
+R13
+vinputbuffer_tb
+R0
+R2
+!i10b 1
+!s100 dU0^J1]bC30LafYAG^NI[2
+IBJ<<?OJDK3RTjQWAl[Jz11
+R3
+!s105 inputbuffer_tb_sv_unit
+S1
+R5
+w1740660738
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer_tb.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer_tb.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/inputbuffer_tb.sv|
+!i113 0
+R12
+R13
+vmotorcontrol
+R0
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 mhz:kGT;IkQf4JX;g<6zk1
+I[Xm<c]L;;M2[BM?Cm[RUM2
+R4
+S1
+R5
+Z17 w1740662882
+8motorcontrol.sv
+Z18 Fmotorcontrol.sv
+L0 29
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xmotorcontrol_sv_unit
+R0
+V:RR@KTKi8283ikJ1Czjl[1
+r1
+!s85 0
+31
+!i10b 1
+!s100 OcMaJ5HUKK9e<OXSTBZzP0
+I:RR@KTKi8283ikJ1Czjl[1
+!i103 1
+S1
+R5
+R17
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol.sv
+L0 9
+R8
+R9
+!s107 C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol.sv|
+!i113 0
+R12
+R13
+vmotorcontrol_tb
+R0
+R2
+!i10b 1
+!s100 :B8Yi2Oo;QP<8>OCdD=f33
+INGWl95J1]=ZD6gLK8oO0W2
+R3
+!s105 motorcontrol_tb_sv_unit
+S1
+R5
+w1740059801
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol_tb.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol_tb.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/motorcontrol_tb.sv|
+!i113 0
+R12
+R13
+vrobot
+R0
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 o[a74J32ijG4P`DdG<@8>1
+IL3zfMV:e<0R?b98<4nfIF0
+R4
+S1
+R5
+w1740666461
+8robot.sv
+Z19 Frobot.sv
+L0 5
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xrobot_sv_unit
+R0
+V;B^RlmETc5hf5XN@G3?FA3
+r1
+!s85 0
+31
+!i10b 1
+!s100 4Cl74dLBeERWlP4;3T03l2
+I;B^RlmETc5hf5XN@G3?FA3
+!i103 1
+S1
+R5
+R6
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot.sv
+R18
+R7
+R14
+Z20 Ftimebase.sv
+L0 9
+R8
+R9
+!s107 timebase.sv|inputbuffer.sv|controller.sv|motorcontrol.sv|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot.sv|
+!i113 0
+R12
+R13
+vrobot_tb
+R0
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 =_bVT0;?[bW@`b>JAFANV1
+I5M>Y[<WYR@;7JI^G9e=Ue0
+R4
+S1
+R5
+w1740661684
+Z21 8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot_tb.sv
+Z22 FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/robot_tb.sv
+L0 4
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xrobot_tb_sv_unit
+R0
+R2
+V?bg0l4fkoZYjjD<;RWi0^0
+r1
+!s85 0
+31
+!i10b 1
+!s100 bO5QO;`dzI>0X[QkE1Mgk1
+I?bg0l4fkoZYjjD<;RWi0^0
+!i103 1
+S1
+R5
+R6
+R21
+R22
+R19
+R18
+R7
+R14
+R20
+L0 9
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vsensor_reg
+R0
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 JeF`N:n1n_GglX6[_4f:T2
+I3Bl0A[F7URogg:_Pdii8U1
+R4
+S1
+R5
+R15
+R16
+R14
+L0 27
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vtimebase
+R0
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;1CoXn1IOcI_HzYg]AbXT2
+I2]_[4V__zO1U7@8chMK322
+R4
+S1
+R5
+w1740058801
+8timebase.sv
+R20
+L0 1
+R8
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vtimebase_tb
+R0
+R2
+!i10b 1
+!s100 ZG5RGR?<h9f]acR@9Tboi2
+I3`T]O]fIT@@?8e8iN_VB`2
+R3
+!s105 timebase_tb_sv_unit
+S1
+R5
+w1740047799
+8C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase_tb.sv
+FC:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase_tb.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/joost/Uni/bsc1/EE1D2/LineFollowerSysver/timebase_tb.sv|
+!i113 0
+R12
+R13
